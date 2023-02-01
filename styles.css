@@ -1,0 +1,49 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Mohave', sans-serif;
+}
+
+.logo {
+    background: #000;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.graphic-logo {
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.main-info{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.goal_amount {
+    margin-top: 200px;
+    font-size: 100px;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background: black;
+}
+
+.footer-content {
+    width: 100%;
+    text-align: center;
+    margin-top: 205px;
+    color: #fff;
+}
+
+.footer-content p {
+    padding-top: 20px;
+}
